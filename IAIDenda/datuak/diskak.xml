@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<?xml-stylesheet stylesheet type= text/xsl "text/xsl" href="diskakxsl.php"?>
+
+<diskak xml:lang="eu">
+	<diska kodea="1" azala="/azala.JPG" atzea="/atzea.JPG" bideoklipa="https://www.youtube.com/embed/zSyveSp6z-g" karpeta="/jaiotzebasatia">
+		<izenburua>Jaiotze Basatia</izenburua>
+		<taldeizena>SU TA GAR</taldeizena>
+		<disketxea>Zarata Diskak</disketxea>
+		<kantuak>
+			<kantua kodea="1" izenburua="Begira" fitxategia="/1.MP3"/>
+			<kantua kodea="2" izenburua="Sistematik Ihes" fitxategia="/2.MP3"/>
+			<kantua kodea="3" izenburua="Mari" fitxategia=""/>
+			<kantua kodea="4" izenburua="David eta Goliath" fitxategia=""/>
+			<kantua kodea="5" izenburua="Jaiotze Basatia" fitxategia=""/>
+			<kantua kodea="6" izenburua="Zure Atzetik" fitxategia=""/>
+			<kantua kodea="7" izenburua="Oinazearen Indarra" fitxategia=""/>
+			<kantua kodea="8" izenburua="Zure Aurrean Makurtzen Naiz" fitxategia=""/>
+			<kantua kodea="9" izenburua="Etsi Gabe" fitxategia="" />
+			<kantua kodea="10" izenburua="Jo Ta Ke"/>
+			<kantua kodea="11" izenburua="Diruaren Esklabu" fitxategia=""/>
+			<kantua kodea="12" izenburua="Haika Mutil" fitxategia=""/>
+		</kantuak>
+		<urtea>1991</urtea>
+	</diska>	
+</diskak>
